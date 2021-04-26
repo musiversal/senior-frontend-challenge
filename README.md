@@ -17,7 +17,7 @@ Features:
 * Tracks will play whatever they have in the track.
 * Users should be able to save tracks. If the user refresh the screen, he should see old saved tracks.
 * You can edit the name of the track, by clicking on the track name (above the Save button).
-* When dragging a sample to the track, a user will be able to place it in the right second, displaying it.
+* When dragging a sample to the track, a user will be able to place it in the right place (second), displaying it. See slide 3, it will mean when a user presses play, we will have 20 seconds of silence and then Sample Two will sound). A user should be able to drop the sample anywhere within the track. You can define a max size of the track of 1 minute, for example, if this simplifies the task.
 * When pressing play, it will always start from the beginning of the track, until it is stopped, allowing silences between samples added to the track.
 
 Additional requirements:
